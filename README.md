@@ -32,7 +32,7 @@ This project demonstrates the use of deep learning (Stacked LSTM) to model and p
    - Trained on past 100 days of data to predict the next day  
 4. **Evaluation & Plotting**:  
    - Visualized predicted vs actual stock prices  
-   - Extended prediction for future **30 days** using recursive input  
+   - Extended prediction for future **50 days** using recursive input  
 5. **Results**:  
    - Accurate short-term trend capture  
    - Future price range estimation with plotted line chart
