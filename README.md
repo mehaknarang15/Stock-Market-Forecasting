@@ -29,7 +29,7 @@ This project demonstrates the use of deep learning (Stacked LSTM) to model and p
    - Sequence generation for time series modeling  
 3. **Model**:  
    - Built a **Stacked LSTM** model with multiple LSTM layers  
-   - Trained on past 100 days of data to predict the next day  
+   - Trained on past 150 days of data to predict the next day  
 4. **Evaluation & Plotting**:  
    - Visualized predicted vs actual stock prices  
    - Extended prediction for future **50 days** using recursive input  
