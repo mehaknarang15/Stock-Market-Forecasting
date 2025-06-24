@@ -53,7 +53,7 @@ This project demonstrates the use of deep learning (Stacked LSTM) to model and p
 1. Clone the repository  
 2. Place `AAPL.csv` in the root directory  
 3. Run the notebook `Stock_Market_Forecasting.ipynb`  
-4. View plots for actual vs predicted and 30-day forecast
+4. View plots for actual vs predicted and 50-day forecast
 
 ---
 
