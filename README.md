@@ -1,6 +1,6 @@
 # 📈 Stock Market Forecasting using LSTM
 
-A time series forecasting project using **Stacked LSTM** to predict stock closing prices and forecast the next 30 days of market behavior.
+A time series forecasting project using **Stacked LSTM** to predict stock closing prices and forecast the next 50 days of market behavior.
 
 ---
 
@@ -42,7 +42,7 @@ This project demonstrates the use of deep learning (Stacked LSTM) to model and p
 ## 📈 Key Features
 
 - Stacked LSTM architecture for better sequence learning  
-- Future 30-day forecasting using last known window  
+- Future 50-day forecasting using last known window  
 - Original vs Predicted closing price visualization  
 - No data shuffling to preserve temporal integrity  
 
